@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Droid Serif';
+      }
+      p, li {
+        font-size: 26px;
+        line-height: 1.6;
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .redbar {
+        border-left: 40px solid red;
+      }
+      .redbar2 {
+        border-left: 40px solid #f88;
+      }
+      .bluebar {
+        border-left: 40px solid blue;
+      }
+      .greenbar {
+        border-left: 40px solid green;
+      }
+      .greenbar2 {
+        border-left: 40px solid lightgreen;
+      }
+      blockquote {
+        margin-inline-start: 2em;
+        border: 1px solid gray;
+        background: #ddffdd;
+        padding: 0 2em 0 2em;
+        line-height: 1.6;
+      }
+
+      blockquote address {
+        text-align: right;
+      }
+      .quote {
+        font-style: italic;
+        border-left: 10px blue solid;
+        padding-left: 20px;
+      }
+      .green {
+        color: #0099aa;
+      }
+      .bgreen {
+        color: #009900;
+        font-weight: bold;
+        font-variant: small-caps;
+        font-size: 120%;
+      }
+      .red {
+        color: red;
+      }
+      .bred {
+        color: red;
+        font-weight: bold;
+        font-variant: small-caps;
+        font-size: 120%;
+      }
+      .blue {
+        color: blue;
+      }
+      .bblue {
+        color: blue;
+        font-weight: bold;
+        font-variant: small-caps;
+        font-size: 120%;
+      }
+      .quote-green {
+        font-size: 120%;
+        font-style: italic;
+        border-left: 10px green solid;
+        padding-left: 20px;
+        line-height: 2.0;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+      .quote p {
+        line-height: 1.6;
+      }
+
+      ul, ol {
+        line-height: 2.0;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+    <script>
+      var slideshow = remark.create({sourceUrl: 'slides.md'});
+    </script>
+  </body>
+</html>
