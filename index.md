@@ -1,18 +1,16 @@
-# Programação 1, 2020.1 — UFCG
+# Programação 1, 2020.3 — UFCG
 
-Site oficial da disciplina de Programação 1, período 2020.1, do
+Site oficial da disciplina de Programação 1, período 2020.3, do
 Curso de Ciência da Computação, UFCG. Aqui, reunimos os _links_
 para o material de estudo e as ferramentas adotadas.
 
-> **ATENÇÃO**. Você agora pode acompanhar o registro de presenças
-> na disciplina. Veja link na seção Links abaixo.
-
 ## 0. Links
-- [Apresentação do Curso](0.apresentacao_do_curso)
 - [Plano do Curso](https://docs.google.com/document/u/1/d/1C_znye2vQNFvhb0xpCbt3A-OPZaTPf3MS8ckDtIj1jA/preview){:target="_blank"}
 - [Bibliografia complementar recomendada](bibliografia.html)
+<!--
 - [Registros de frequência](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAAcM6lJajgSJHeP5F9dtBaTMrVe0aUCBWl-RUK_gmd1NRnMRnvH-Ln-thaojuIguEqCmB5HsIbzTU/pubhtml?gid=982366860#){:target="_blank"}
-<!-- - [Instalação do TST](https://daltonserey.github.io/prog1/0-instalacao_do_tst) - Site de exercícios -->
+- [Instalação do TST](https://daltonserey.github.io/prog1/0-instalacao_do_tst) - Site de exercícios
+-->
 
 ## 1. Dados, expressões e variáveis
 - [Números e Variáveis](https://daltonserey.github.io/prog1/1.1-numeros_e_variaveis/text.html){:target="_blank"}
