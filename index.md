@@ -7,6 +7,7 @@ para o material de estudo e as ferramentas adotadas.
 ## 0. Links
 - [Plano do Curso](https://docs.google.com/document/u/1/d/1C_znye2vQNFvhb0xpCbt3A-OPZaTPf3MS8ckDtIj1jA/preview){:target="_blank"}
 - [Bibliografia complementar recomendada](bibliografia.html)
+- [Links para as aulas gravadas](https://docs.google.com/document/d/1rKRTELm-ZPPgZ5AftsG-viiGjWBT9-j8nMUs2xa97zc/edit?usp=sharing){:target="_blank"}
 
 ## 1. Dados, expressões e variáveis
 - [Números e Variáveis](https://daltonserey.github.io/prog1/1.1-numeros_e_variaveis/text.html){:target="_blank"}
