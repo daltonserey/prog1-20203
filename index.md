@@ -7,10 +7,6 @@ para o material de estudo e as ferramentas adotadas.
 ## 0. Links
 - [Plano do Curso](https://docs.google.com/document/u/1/d/1C_znye2vQNFvhb0xpCbt3A-OPZaTPf3MS8ckDtIj1jA/preview){:target="_blank"}
 - [Bibliografia complementar recomendada](bibliografia.html)
-<!--
-- [Registros de frequência](https://docs.google.com/spreadsheets/d/e/2PACX-1vTAAcM6lJajgSJHeP5F9dtBaTMrVe0aUCBWl-RUK_gmd1NRnMRnvH-Ln-thaojuIguEqCmB5HsIbzTU/pubhtml?gid=982366860#){:target="_blank"}
-- [Instalação do TST](https://daltonserey.github.io/prog1/0-instalacao_do_tst) - Site de exercícios
--->
 
 ## 1. Dados, expressões e variáveis
 - [Números e Variáveis](https://daltonserey.github.io/prog1/1.1-numeros_e_variaveis/text.html){:target="_blank"}
