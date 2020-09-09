@@ -1,5 +1,2 @@
-# Programação 1 - 2020.3
-
-Este repo hospedou o site da disciplina por alguns dias, 
-antes que a organização prog1ufcg fosse aceita pelo GitHub. Agora
-o repo do site fica nessa organização.
+O site da disciplina _Programação 1_ da UFCG (2020.3) mudou de
+endereço: [https://prog1ufcg.github.io/2020.3](https://prog1ufcg.github.io/2020.3)
